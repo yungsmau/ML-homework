@@ -1,0 +1,7714 @@
+{
+    "flight_least_common": [
+        {
+            "value": "UK-706",
+            "count": 1806,
+            "ratio": 0.009
+        },
+        {
+            "value": "UK-720",
+            "count": 1420,
+            "ratio": 0.007
+        },
+        {
+            "value": "UK-772",
+            "count": 1419,
+            "ratio": 0.007
+        },
+        {
+            "value": "UK-874",
+            "count": 1221,
+            "ratio": 0.006
+        },
+        {
+            "value": "UK-738",
+            "count": 1200,
+            "ratio": 0.006
+        },
+        {
+            "value": "UK-852",
+            "count": 1190,
+            "ratio": 0.006
+        },
+        {
+            "value": "UK-708",
+            "count": 1173,
+            "ratio": 0.006
+        },
+        {
+            "value": "UK-860",
+            "count": 1167,
+            "ratio": 0.006
+        },
+        {
+            "value": "UK-876",
+            "count": 1164,
+            "ratio": 0.006
+        },
+        {
+            "value": "UK-774",
+            "count": 1147,
+            "ratio": 0.006
+        },
+        {
+            "value": "UK-878",
+            "count": 1146,
+            "ratio": 0.006
+        },
+        {
+            "value": "UK-830",
+            "count": 1123,
+            "ratio": 0.006
+        },
+        {
+            "value": "UK-828",
+            "count": 1033,
+            "ratio": 0.005
+        },
+        {
+            "value": "UK-836",
+            "count": 1025,
+            "ratio": 0.005
+        },
+        {
+            "value": "UK-870",
+            "count": 1021,
+            "ratio": 0.005
+        },
+        {
+            "value": "UK-776",
+            "count": 1018,
+            "ratio": 0.005
+        },
+        {
+            "value": "AI-770",
+            "count": 1016,
+            "ratio": 0.005
+        },
+        {
+            "value": "UK-832",
+            "count": 1007,
+            "ratio": 0.005
+        },
+        {
+            "value": "UK-822",
+            "count": 993,
+            "ratio": 0.005
+        },
+        {
+            "value": "UK-826",
+            "count": 983,
+            "ratio": 0.005
+        },
+        {
+            "value": "UK-858",
+            "count": 928,
+            "ratio": 0.005
+        },
+        {
+            "value": "UK-880",
+            "count": 880,
+            "ratio": 0.004
+        },
+        {
+            "value": "AI-543",
+            "count": 873,
+            "ratio": 0.004
+        },
+        {
+            "value": "AI-559",
+            "count": 864,
+            "ratio": 0.004
+        },
+        {
+            "value": "UK-816",
+            "count": 854,
+            "ratio": 0.004
+        },
+        {
+            "value": "UK-808",
+            "count": 848,
+            "ratio": 0.004
+        },
+        {
+            "value": "AI-763",
+            "count": 839,
+            "ratio": 0.004
+        },
+        {
+            "value": "UK-812",
+            "count": 836,
+            "ratio": 0.004
+        },
+        {
+            "value": "AI-840",
+            "count": 832,
+            "ratio": 0.004
+        },
+        {
+            "value": "UK-824",
+            "count": 827,
+            "ratio": 0.004
+        },
+        {
+            "value": "UK-838",
+            "count": 823,
+            "ratio": 0.004
+        },
+        {
+            "value": "UK-898",
+            "count": 813,
+            "ratio": 0.004
+        },
+        {
+            "value": "AI-402",
+            "count": 801,
+            "ratio": 0.004
+        },
+        {
+            "value": "AI-809",
+            "count": 797,
+            "ratio": 0.004
+        },
+        {
+            "value": "AI-541",
+            "count": 779,
+            "ratio": 0.004
+        },
+        {
+            "value": "UK-810",
+            "count": 775,
+            "ratio": 0.004
+        },
+        {
+            "value": "AI-660",
+            "count": 757,
+            "ratio": 0.004
+        },
+        {
+            "value": "AI-806",
+            "count": 755,
+            "ratio": 0.004
+        },
+        {
+            "value": "UK-778",
+            "count": 744,
+            "ratio": 0.004
+        },
+        {
+            "value": "AI-442",
+            "count": 741,
+            "ratio": 0.004
+        },
+        {
+            "value": "AI-808",
+            "count": 739,
+            "ratio": 0.004
+        },
+        {
+            "value": "AI-804",
+            "count": 737,
+            "ratio": 0.004
+        },
+        {
+            "value": "AI-867",
+            "count": 733,
+            "ratio": 0.004
+        },
+        {
+            "value": "AI-505",
+            "count": 722,
+            "ratio": 0.004
+        },
+        {
+            "value": "UK-890",
+            "count": 714,
+            "ratio": 0.004
+        },
+        {
+            "value": "AI-888",
+            "count": 708,
+            "ratio": 0.004
+        },
+        {
+            "value": "AI-687",
+            "count": 700,
+            "ratio": 0.003
+        },
+        {
+            "value": "UK-897",
+            "count": 696,
+            "ratio": 0.003
+        },
+        {
+            "value": "AI-440",
+            "count": 690,
+            "ratio": 0.003
+        },
+        {
+            "value": "AI-503",
+            "count": 689,
+            "ratio": 0.003
+        },
+        {
+            "value": "UK-988",
+            "count": 644,
+            "ratio": 0.003
+        },
+        {
+            "value": "UK-850",
+            "count": 643,
+            "ratio": 0.003
+        },
+        {
+            "value": "UK-894",
+            "count": 639,
+            "ratio": 0.003
+        },
+        {
+            "value": "UK-940",
+            "count": 638,
+            "ratio": 0.003
+        },
+        {
+            "value": "AI-676",
+            "count": 634,
+            "ratio": 0.003
+        },
+        {
+            "value": "UK-866",
+            "count": 630,
+            "ratio": 0.003
+        },
+        {
+            "value": "AI-635",
+            "count": 628,
+            "ratio": 0.003
+        },
+        {
+            "value": "AI-768",
+            "count": 627,
+            "ratio": 0.003
+        },
+        {
+            "value": "UK-854",
+            "count": 623,
+            "ratio": 0.003
+        },
+        {
+            "value": "AI-538",
+            "count": 619,
+            "ratio": 0.003
+        },
+        {
+            "value": "UK-846",
+            "count": 610,
+            "ratio": 0.003
+        },
+        {
+            "value": "UK-994",
+            "count": 607,
+            "ratio": 0.003
+        },
+        {
+            "value": "AI-430",
+            "count": 603,
+            "ratio": 0.003
+        },
+        {
+            "value": "UK-996",
+            "count": 587,
+            "ratio": 0.003
+        },
+        {
+            "value": "UK-958",
+            "count": 583,
+            "ratio": 0.003
+        },
+        {
+            "value": "UK-814",
+            "count": 567,
+            "ratio": 0.003
+        },
+        {
+            "value": "AI-9894",
+            "count": 565,
+            "ratio": 0.003
+        },
+        {
+            "value": "UK-970",
+            "count": 554,
+            "ratio": 0.003
+        },
+        {
+            "value": "UK-893",
+            "count": 550,
+            "ratio": 0.003
+        },
+        {
+            "value": "UK-960",
+            "count": 545,
+            "ratio": 0.003
+        },
+        {
+            "value": "6E-6021",
+            "count": 542,
+            "ratio": 0.003
+        },
+        {
+            "value": "AI-640",
+            "count": 541,
+            "ratio": 0.003
+        },
+        {
+            "value": "AI-698",
+            "count": 531,
+            "ratio": 0.003
+        },
+        {
+            "value": "UK-864",
+            "count": 529,
+            "ratio": 0.003
+        },
+        {
+            "value": "UK-930",
+            "count": 519,
+            "ratio": 0.003
+        },
+        {
+            "value": "AI-672",
+            "count": 518,
+            "ratio": 0.003
+        },
+        {
+            "value": "AI-501",
+            "count": 517,
+            "ratio": 0.003
+        },
+        {
+            "value": "UK-995",
+            "count": 514,
+            "ratio": 0.003
+        },
+        {
+            "value": "UK-657",
+            "count": 513,
+            "ratio": 0.003
+        },
+        {
+            "value": "G8-116",
+            "count": 506,
+            "ratio": 0.003
+        },
+        {
+            "value": "AI-9517",
+            "count": 505,
+            "ratio": 0.003
+        },
+        {
+            "value": "UK-818",
+            "count": 501,
+            "ratio": 0.003
+        },
+        {
+            "value": "G8-227",
+            "count": 501,
+            "ratio": 0.003
+        },
+        {
+            "value": "UK-834",
+            "count": 498,
+            "ratio": 0.002
+        },
+        {
+            "value": "UK-944",
+            "count": 494,
+            "ratio": 0.002
+        },
+        {
+            "value": "UK-927",
+            "count": 489,
+            "ratio": 0.002
+        },
+        {
+            "value": "UK-986",
+            "count": 484,
+            "ratio": 0.002
+        },
+        {
+            "value": "AI-773",
+            "count": 481,
+            "ratio": 0.002
+        },
+        {
+            "value": "AI-569",
+            "count": 480,
+            "ratio": 0.002
+        },
+        {
+            "value": "UK-945",
+            "count": 477,
+            "ratio": 0.002
+        },
+        {
+            "value": "I5-1529",
+            "count": 476,
+            "ratio": 0.002
+        },
+        {
+            "value": "AI-732",
+            "count": 472,
+            "ratio": 0.002
+        },
+        {
+            "value": "UK-910",
+            "count": 470,
+            "ratio": 0.002
+        },
+        {
+            "value": "UK-963",
+            "count": 469,
+            "ratio": 0.002
+        },
+        {
+            "value": "UK-981",
+            "count": 467,
+            "ratio": 0.002
+        },
+        {
+            "value": "6E-841",
+            "count": 464,
+            "ratio": 0.002
+        },
+        {
+            "value": "UK-953",
+            "count": 462,
+            "ratio": 0.002
+        },
+        {
+            "value": "UK-928",
+            "count": 461,
+            "ratio": 0.002
+        },
+        {
+            "value": "AI-864",
+            "count": 459,
+            "ratio": 0.002
+        },
+        {
+            "value": "UK-659",
+            "count": 457,
+            "ratio": 0.002
+        },
+        {
+            "value": "UK-993",
+            "count": 455,
+            "ratio": 0.002
+        },
+        {
+            "value": "I5-942",
+            "count": 454,
+            "ratio": 0.002
+        },
+        {
+            "value": "UK-950",
+            "count": 453,
+            "ratio": 0.002
+        },
+        {
+            "value": "G8-302",
+            "count": 452,
+            "ratio": 0.002
+        },
+        {
+            "value": "AI-526",
+            "count": 451,
+            "ratio": 0.002
+        },
+        {
+            "value": "6E-6205",
+            "count": 451,
+            "ratio": 0.002
+        },
+        {
+            "value": "AI-610",
+            "count": 449,
+            "ratio": 0.002
+        },
+        {
+            "value": "AI-539",
+            "count": 449,
+            "ratio": 0.002
+        },
+        {
+            "value": "UK-802",
+            "count": 449,
+            "ratio": 0.002
+        },
+        {
+            "value": "UK-933",
+            "count": 445,
+            "ratio": 0.002
+        },
+        {
+            "value": "UK-951",
+            "count": 445,
+            "ratio": 0.002
+        },
+        {
+            "value": "UK-985",
+            "count": 438,
+            "ratio": 0.002
+        },
+        {
+            "value": "UK-955",
+            "count": 436,
+            "ratio": 0.002
+        },
+        {
+            "value": "UK-877",
+            "count": 428,
+            "ratio": 0.002
+        },
+        {
+            "value": "UK-820",
+            "count": 423,
+            "ratio": 0.002
+        },
+        {
+            "value": "I5-972",
+            "count": 422,
+            "ratio": 0.002
+        },
+        {
+            "value": "G8-512",
+            "count": 422,
+            "ratio": 0.002
+        },
+        {
+            "value": "G8-424",
+            "count": 422,
+            "ratio": 0.002
+        },
+        {
+            "value": "I5-1518",
+            "count": 417,
+            "ratio": 0.002
+        },
+        {
+            "value": "AI-619",
+            "count": 414,
+            "ratio": 0.002
+        },
+        {
+            "value": "AI-765",
+            "count": 412,
+            "ratio": 0.002
+        },
+        {
+            "value": "I5-740",
+            "count": 411,
+            "ratio": 0.002
+        },
+        {
+            "value": "AI-525",
+            "count": 409,
+            "ratio": 0.002
+        },
+        {
+            "value": "UK-902",
+            "count": 401,
+            "ratio": 0.002
+        },
+        {
+            "value": "UK-954",
+            "count": 399,
+            "ratio": 0.002
+        },
+        {
+            "value": "I5-1543",
+            "count": 398,
+            "ratio": 0.002
+        },
+        {
+            "value": "AI-573",
+            "count": 398,
+            "ratio": 0.002
+        },
+        {
+            "value": "UK-977",
+            "count": 396,
+            "ratio": 0.002
+        },
+        {
+            "value": "6E-354",
+            "count": 394,
+            "ratio": 0.002
+        },
+        {
+            "value": "UK-943",
+            "count": 387,
+            "ratio": 0.002
+        },
+        {
+            "value": "UK-941",
+            "count": 385,
+            "ratio": 0.002
+        },
+        {
+            "value": "UK-863",
+            "count": 379,
+            "ratio": 0.002
+        },
+        {
+            "value": "6E-893",
+            "count": 377,
+            "ratio": 0.002
+        },
+        {
+            "value": "UK-819",
+            "count": 376,
+            "ratio": 0.002
+        },
+        {
+            "value": "UK-873",
+            "count": 375,
+            "ratio": 0.002
+        },
+        {
+            "value": "I5-2473",
+            "count": 365,
+            "ratio": 0.002
+        },
+        {
+            "value": "I5-1229",
+            "count": 364,
+            "ratio": 0.002
+        },
+        {
+            "value": "G8-7562",
+            "count": 364,
+            "ratio": 0.002
+        },
+        {
+            "value": "6E-605",
+            "count": 362,
+            "ratio": 0.002
+        },
+        {
+            "value": "6E-2005",
+            "count": 358,
+            "ratio": 0.002
+        },
+        {
+            "value": "6E-6113",
+            "count": 358,
+            "ratio": 0.002
+        },
+        {
+            "value": "AI-9891",
+            "count": 355,
+            "ratio": 0.002
+        },
+        {
+            "value": "AI-9893",
+            "count": 351,
+            "ratio": 0.002
+        },
+        {
+            "value": "UK-975",
+            "count": 351,
+            "ratio": 0.002
+        },
+        {
+            "value": "I5-510",
+            "count": 351,
+            "ratio": 0.002
+        },
+        {
+            "value": "G8-395",
+            "count": 350,
+            "ratio": 0.002
+        },
+        {
+            "value": "G8-304",
+            "count": 348,
+            "ratio": 0.002
+        },
+        {
+            "value": "AI-9547",
+            "count": 347,
+            "ratio": 0.002
+        },
+        {
+            "value": "AI-507",
+            "count": 347,
+            "ratio": 0.002
+        },
+        {
+            "value": "G8-102",
+            "count": 346,
+            "ratio": 0.002
+        },
+        {
+            "value": "I5-767",
+            "count": 345,
+            "ratio": 0.002
+        },
+        {
+            "value": "AI-636",
+            "count": 345,
+            "ratio": 0.002
+        },
+        {
+            "value": "UK-829",
+            "count": 345,
+            "ratio": 0.002
+        },
+        {
+            "value": "6E-6212",
+            "count": 344,
+            "ratio": 0.002
+        },
+        {
+            "value": "AI-766",
+            "count": 343,
+            "ratio": 0.002
+        },
+        {
+            "value": "AI-805",
+            "count": 342,
+            "ratio": 0.002
+        },
+        {
+            "value": "G8-118",
+            "count": 341,
+            "ratio": 0.002
+        },
+        {
+            "value": "AI-441",
+            "count": 337,
+            "ratio": 0.002
+        },
+        {
+            "value": "UK-851",
+            "count": 337,
+            "ratio": 0.002
+        },
+        {
+            "value": "AI-542",
+            "count": 335,
+            "ratio": 0.002
+        },
+        {
+            "value": "6E-6491",
+            "count": 330,
+            "ratio": 0.002
+        },
+        {
+            "value": "UK-653",
+            "count": 327,
+            "ratio": 0.002
+        },
+        {
+            "value": "AI-675",
+            "count": 325,
+            "ratio": 0.002
+        },
+        {
+            "value": "AI-624",
+            "count": 323,
+            "ratio": 0.002
+        },
+        {
+            "value": "AI-9518",
+            "count": 322,
+            "ratio": 0.002
+        },
+        {
+            "value": "AI-665",
+            "count": 322,
+            "ratio": 0.002
+        },
+        {
+            "value": "AI-424",
+            "count": 320,
+            "ratio": 0.002
+        },
+        {
+            "value": "AI-678",
+            "count": 316,
+            "ratio": 0.002
+        },
+        {
+            "value": "UK-879",
+            "count": 316,
+            "ratio": 0.002
+        },
+        {
+            "value": "UK-875",
+            "count": 316,
+            "ratio": 0.002
+        },
+        {
+            "value": "AI-774",
+            "count": 313,
+            "ratio": 0.002
+        },
+        {
+            "value": "G8-537",
+            "count": 313,
+            "ratio": 0.002
+        },
+        {
+            "value": "6E-6172",
+            "count": 310,
+            "ratio": 0.002
+        },
+        {
+            "value": "6E-2247",
+            "count": 309,
+            "ratio": 0.002
+        },
+        {
+            "value": "6E-541",
+            "count": 308,
+            "ratio": 0.002
+        },
+        {
+            "value": "AI-839",
+            "count": 306,
+            "ratio": 0.002
+        },
+        {
+            "value": "AI-429",
+            "count": 300,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-519",
+            "count": 299,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-868",
+            "count": 298,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-886",
+            "count": 296,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-747",
+            "count": 293,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-515",
+            "count": 291,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-351",
+            "count": 290,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-496",
+            "count": 289,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-847",
+            "count": 289,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-6067",
+            "count": 288,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-5217",
+            "count": 287,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-1563",
+            "count": 285,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-899",
+            "count": 283,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-974",
+            "count": 283,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-637",
+            "count": 282,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-426",
+            "count": 282,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-336",
+            "count": 281,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-651",
+            "count": 281,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-417",
+            "count": 281,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-6137",
+            "count": 279,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-9720",
+            "count": 277,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-560",
+            "count": 277,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-7556",
+            "count": 275,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-269",
+            "count": 275,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-5312",
+            "count": 273,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-887",
+            "count": 273,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-517",
+            "count": 272,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-801",
+            "count": 272,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-9881",
+            "count": 271,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-775",
+            "count": 271,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-811",
+            "count": 270,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-853",
+            "count": 269,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-6151",
+            "count": 267,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-798",
+            "count": 267,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-639",
+            "count": 267,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-6257",
+            "count": 266,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-865",
+            "count": 265,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-591",
+            "count": 265,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-544",
+            "count": 265,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-319",
+            "count": 265,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-871",
+            "count": 264,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-817",
+            "count": 264,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-563",
+            "count": 261,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-613",
+            "count": 260,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-762",
+            "count": 260,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-991",
+            "count": 257,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-2991",
+            "count": 256,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-813",
+            "count": 256,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-620",
+            "count": 254,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-1569",
+            "count": 254,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-334",
+            "count": 253,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-588",
+            "count": 252,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-7547",
+            "count": 252,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-552",
+            "count": 252,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-637",
+            "count": 248,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-484",
+            "count": 247,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-671",
+            "count": 246,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-336",
+            "count": 242,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-9745",
+            "count": 242,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-789",
+            "count": 242,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-5208",
+            "count": 241,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-803",
+            "count": 241,
+            "ratio": 0.001
+        },
+        {
+            "value": "SG-678",
+            "count": 240,
+            "ratio": 0.001
+        },
+        {
+            "value": "SG-612",
+            "count": 240,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-338",
+            "count": 239,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-7535",
+            "count": 238,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-9505",
+            "count": 238,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-401",
+            "count": 237,
+            "ratio": 0.001
+        },
+        {
+            "value": "SG-3027",
+            "count": 236,
+            "ratio": 0.001
+        },
+        {
+            "value": "SG-8152",
+            "count": 235,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-6326",
+            "count": 235,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-5209",
+            "count": 234,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-179",
+            "count": 233,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-9885",
+            "count": 232,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-705",
+            "count": 231,
+            "ratio": 0.001
+        },
+        {
+            "value": "SG-8130",
+            "count": 231,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-385",
+            "count": 230,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-764",
+            "count": 230,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-807",
+            "count": 228,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-509",
+            "count": 228,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-327",
+            "count": 225,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-540",
+            "count": 224,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-721",
+            "count": 223,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-514",
+            "count": 223,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-783",
+            "count": 222,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-6339",
+            "count": 222,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-815",
+            "count": 222,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-504",
+            "count": 221,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-631",
+            "count": 221,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-511",
+            "count": 219,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-669",
+            "count": 219,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-807",
+            "count": 219,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-570",
+            "count": 218,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-506",
+            "count": 218,
+            "ratio": 0.001
+        },
+        {
+            "value": "SG-8264",
+            "count": 218,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-859",
+            "count": 218,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-320",
+            "count": 216,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-1531",
+            "count": 215,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-717",
+            "count": 214,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-101",
+            "count": 214,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-867",
+            "count": 212,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-784",
+            "count": 212,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-651",
+            "count": 212,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-6006",
+            "count": 212,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-550",
+            "count": 212,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-803",
+            "count": 212,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-285",
+            "count": 210,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-673",
+            "count": 209,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-502",
+            "count": 209,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-809",
+            "count": 207,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-531",
+            "count": 207,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-857",
+            "count": 207,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-877",
+            "count": 205,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-7560",
+            "count": 204,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-845",
+            "count": 203,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-2331",
+            "count": 203,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-364",
+            "count": 202,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-9876",
+            "count": 200,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-322",
+            "count": 199,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-392",
+            "count": 198,
+            "ratio": 0.001
+        },
+        {
+            "value": "SG-4010",
+            "count": 197,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-5307",
+            "count": 196,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-135",
+            "count": 196,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-6017",
+            "count": 194,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-286",
+            "count": 194,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-2508",
+            "count": 194,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-792",
+            "count": 194,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-7534",
+            "count": 194,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-512",
+            "count": 192,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-323",
+            "count": 192,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-516",
+            "count": 192,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-6488",
+            "count": 192,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-821",
+            "count": 191,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-319",
+            "count": 191,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-345",
+            "count": 190,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-547",
+            "count": 189,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-738",
+            "count": 189,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-885",
+            "count": 188,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-7561",
+            "count": 188,
+            "ratio": 0.001
+        },
+        {
+            "value": "SG-4009",
+            "count": 188,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-157",
+            "count": 187,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-537",
+            "count": 186,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-139",
+            "count": 186,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-391",
+            "count": 184,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-113",
+            "count": 183,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-767",
+            "count": 183,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-413",
+            "count": 182,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-582",
+            "count": 182,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-495",
+            "count": 181,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-7223",
+            "count": 179,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-741",
+            "count": 179,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-383",
+            "count": 177,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-439",
+            "count": 177,
+            "ratio": 0.001
+        },
+        {
+            "value": "SG-387",
+            "count": 176,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-607",
+            "count": 176,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-835",
+            "count": 176,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-123",
+            "count": 175,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-638",
+            "count": 174,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-967",
+            "count": 171,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-530",
+            "count": 171,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-673",
+            "count": 170,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-631",
+            "count": 170,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-905",
+            "count": 170,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-7548",
+            "count": 170,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-711",
+            "count": 169,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-823",
+            "count": 169,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-345",
+            "count": 168,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-611",
+            "count": 165,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-6818",
+            "count": 165,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-747",
+            "count": 164,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-390",
+            "count": 163,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-792",
+            "count": 163,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-2083",
+            "count": 163,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-330",
+            "count": 163,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-822",
+            "count": 163,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-865",
+            "count": 162,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-747",
+            "count": 161,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-821",
+            "count": 161,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-616",
+            "count": 161,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-5338",
+            "count": 161,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-505",
+            "count": 160,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-312",
+            "count": 158,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-725",
+            "count": 157,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-321",
+            "count": 156,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-830",
+            "count": 156,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-7545",
+            "count": 156,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-829",
+            "count": 156,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-771",
+            "count": 155,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-655",
+            "count": 155,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-329",
+            "count": 154,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-827",
+            "count": 154,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-713",
+            "count": 154,
+            "ratio": 0.001
+        },
+        {
+            "value": "SG-3839",
+            "count": 153,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-889",
+            "count": 153,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-6066",
+            "count": 153,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-748",
+            "count": 153,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-146",
+            "count": 151,
+            "ratio": 0.001
+        },
+        {
+            "value": "SG-8158",
+            "count": 151,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-825",
+            "count": 151,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-837",
+            "count": 151,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-873",
+            "count": 151,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-171",
+            "count": 150,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-330",
+            "count": 150,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-346",
+            "count": 150,
+            "ratio": 0.001
+        },
+        {
+            "value": "SG-8702",
+            "count": 149,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-6917",
+            "count": 149,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-685",
+            "count": 149,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-339",
+            "count": 148,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-244",
+            "count": 148,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-2501",
+            "count": 146,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-294",
+            "count": 145,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-136",
+            "count": 145,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-379",
+            "count": 145,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-775",
+            "count": 144,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-241",
+            "count": 144,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-1228",
+            "count": 144,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-473",
+            "count": 144,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-305",
+            "count": 144,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-6463",
+            "count": 144,
+            "ratio": 0.001
+        },
+        {
+            "value": "SG-520",
+            "count": 143,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-6319",
+            "count": 142,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-744",
+            "count": 142,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-805",
+            "count": 142,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-119",
+            "count": 142,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-7533",
+            "count": 141,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-236",
+            "count": 141,
+            "ratio": 0.001
+        },
+        {
+            "value": "SG-8169",
+            "count": 141,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-833",
+            "count": 140,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-5375",
+            "count": 140,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-5308",
+            "count": 140,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-1426",
+            "count": 139,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-2336",
+            "count": 138,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-399",
+            "count": 138,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-6809",
+            "count": 138,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-548",
+            "count": 138,
+            "ratio": 0.001
+        },
+        {
+            "value": "SG-768",
+            "count": 137,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-663",
+            "count": 137,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-787",
+            "count": 136,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-849",
+            "count": 136,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-7536",
+            "count": 136,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-7537",
+            "count": 136,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-2513",
+            "count": 136,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-518",
+            "count": 135,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-5236",
+            "count": 135,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-827",
+            "count": 135,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-7546",
+            "count": 135,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-1528",
+            "count": 133,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-317",
+            "count": 133,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-331",
+            "count": 133,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-517",
+            "count": 133,
+            "ratio": 0.001
+        },
+        {
+            "value": "SG-8709",
+            "count": 133,
+            "ratio": 0.001
+        },
+        {
+            "value": "SG-8710",
+            "count": 132,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-683",
+            "count": 132,
+            "ratio": 0.001
+        },
+        {
+            "value": "SG-8157",
+            "count": 131,
+            "ratio": 0.001
+        },
+        {
+            "value": "SG-2976",
+            "count": 131,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-722",
+            "count": 131,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-469",
+            "count": 131,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-1621",
+            "count": 131,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-5332",
+            "count": 131,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-6467",
+            "count": 130,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-615",
+            "count": 130,
+            "ratio": 0.001
+        },
+        {
+            "value": "SG-337",
+            "count": 130,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-996",
+            "count": 129,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-1782",
+            "count": 129,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-287",
+            "count": 129,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-6217",
+            "count": 128,
+            "ratio": 0.001
+        },
+        {
+            "value": "SG-8803",
+            "count": 128,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-1517",
+            "count": 128,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-749",
+            "count": 128,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-841",
+            "count": 128,
+            "ratio": 0.001
+        },
+        {
+            "value": "SG-8946",
+            "count": 128,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-1562",
+            "count": 127,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-793",
+            "count": 126,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-382",
+            "count": 126,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-375",
+            "count": 126,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-625",
+            "count": 126,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-711",
+            "count": 126,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-508",
+            "count": 126,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-9501",
+            "count": 125,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-397",
+            "count": 125,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-2474",
+            "count": 124,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-2193",
+            "count": 124,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-855",
+            "count": 122,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-790",
+            "count": 121,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-219",
+            "count": 121,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-371",
+            "count": 121,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-5175",
+            "count": 121,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-125",
+            "count": 121,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-453",
+            "count": 120,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-5392",
+            "count": 120,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-2147",
+            "count": 120,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-766",
+            "count": 120,
+            "ratio": 0.001
+        },
+        {
+            "value": "SG-516",
+            "count": 119,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-275",
+            "count": 118,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-283",
+            "count": 118,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-7298",
+            "count": 118,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-7403",
+            "count": 117,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-752",
+            "count": 117,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-369",
+            "count": 117,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-211",
+            "count": 117,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-2348",
+            "count": 117,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-165",
+            "count": 117,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-510",
+            "count": 116,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-768",
+            "count": 116,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-2461",
+            "count": 116,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-341",
+            "count": 116,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-710",
+            "count": 115,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-6214",
+            "count": 115,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-5366",
+            "count": 115,
+            "ratio": 0.001
+        },
+        {
+            "value": "SG-406",
+            "count": 114,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-5371",
+            "count": 114,
+            "ratio": 0.001
+        },
+        {
+            "value": "SG-3281",
+            "count": 114,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-818",
+            "count": 114,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-415",
+            "count": 113,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-839",
+            "count": 113,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-423",
+            "count": 112,
+            "ratio": 0.001
+        },
+        {
+            "value": "SG-251",
+            "count": 112,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-2248",
+            "count": 111,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-566",
+            "count": 111,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-409",
+            "count": 111,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-684",
+            "count": 110,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-571",
+            "count": 110,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-489",
+            "count": 110,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-9875",
+            "count": 108,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-883",
+            "count": 108,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-838",
+            "count": 108,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-713",
+            "count": 107,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-6965",
+            "count": 106,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-6277",
+            "count": 106,
+            "ratio": 0.001
+        },
+        {
+            "value": "UK-627",
+            "count": 106,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-422",
+            "count": 105,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-152",
+            "count": 105,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-7538",
+            "count": 104,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-354",
+            "count": 104,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-7136",
+            "count": 104,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-5376",
+            "count": 104,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-515",
+            "count": 104,
+            "ratio": 0.001
+        },
+        {
+            "value": "SG-611",
+            "count": 104,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-668",
+            "count": 103,
+            "ratio": 0.001
+        },
+        {
+            "value": "SG-8721",
+            "count": 103,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-357",
+            "count": 103,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-423",
+            "count": 103,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-7541",
+            "count": 102,
+            "ratio": 0.001
+        },
+        {
+            "value": "AI-729",
+            "count": 102,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-504",
+            "count": 102,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-625",
+            "count": 102,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-7559",
+            "count": 102,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-2026",
+            "count": 102,
+            "ratio": 0.001
+        },
+        {
+            "value": "G8-626",
+            "count": 102,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-528",
+            "count": 101,
+            "ratio": 0.001
+        },
+        {
+            "value": "I5-1576",
+            "count": 101,
+            "ratio": 0.001
+        },
+        {
+            "value": "6E-2188",
+            "count": 100,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2338",
+            "count": 99,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-8903",
+            "count": 99,
+            "ratio": 0.0
+        },
+        {
+            "value": "UK-737",
+            "count": 99,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-459",
+            "count": 99,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-325",
+            "count": 99,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6219",
+            "count": 98,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-1530",
+            "count": 98,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-401",
+            "count": 98,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-467",
+            "count": 98,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-512",
+            "count": 98,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-681",
+            "count": 98,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-913",
+            "count": 98,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-764",
+            "count": 98,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-3283",
+            "count": 97,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-520",
+            "count": 96,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-941",
+            "count": 96,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6513",
+            "count": 95,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2516",
+            "count": 95,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-488",
+            "count": 95,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-282",
+            "count": 95,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-411",
+            "count": 95,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-791",
+            "count": 95,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6187",
+            "count": 94,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-772",
+            "count": 94,
+            "ratio": 0.0
+        },
+        {
+            "value": "UK-707",
+            "count": 94,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6366",
+            "count": 94,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6215",
+            "count": 93,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-363",
+            "count": 93,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-331",
+            "count": 93,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-773",
+            "count": 93,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-819",
+            "count": 92,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6591",
+            "count": 91,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-371",
+            "count": 91,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-891",
+            "count": 91,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-531",
+            "count": 91,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6222",
+            "count": 91,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-131",
+            "count": 91,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-103",
+            "count": 90,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-483",
+            "count": 90,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-599",
+            "count": 90,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-7549",
+            "count": 89,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-410",
+            "count": 89,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-1983",
+            "count": 89,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2102",
+            "count": 89,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-426",
+            "count": 88,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-895",
+            "count": 88,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-523",
+            "count": 88,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-457",
+            "count": 87,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-276",
+            "count": 87,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5013",
+            "count": 87,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-465",
+            "count": 87,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-1780",
+            "count": 87,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-4417",
+            "count": 87,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-3002",
+            "count": 87,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-879",
+            "count": 87,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-143",
+            "count": 87,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6345",
+            "count": 87,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-161",
+            "count": 87,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6785",
+            "count": 87,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-7543",
+            "count": 86,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6051",
+            "count": 86,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-654",
+            "count": 86,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-9657",
+            "count": 86,
+            "ratio": 0.0
+        },
+        {
+            "value": "UK-727",
+            "count": 86,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-4027",
+            "count": 86,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-285",
+            "count": 85,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-1404",
+            "count": 85,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-992",
+            "count": 85,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-365",
+            "count": 85,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-807",
+            "count": 85,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-592",
+            "count": 85,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-1561",
+            "count": 84,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-732",
+            "count": 84,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-134",
+            "count": 84,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-451",
+            "count": 84,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-349",
+            "count": 84,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2077",
+            "count": 84,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-475",
+            "count": 84,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-607",
+            "count": 84,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7271",
+            "count": 84,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-191",
+            "count": 83,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5002",
+            "count": 83,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-8207",
+            "count": 83,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-423",
+            "count": 83,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6234",
+            "count": 83,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-588",
+            "count": 83,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-1321",
+            "count": 83,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-371",
+            "count": 83,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-633",
+            "count": 82,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-808",
+            "count": 82,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-387",
+            "count": 82,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-992",
+            "count": 82,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-556",
+            "count": 82,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5369",
+            "count": 82,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6104",
+            "count": 81,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-565",
+            "count": 81,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-743",
+            "count": 81,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-743",
+            "count": 81,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2028",
+            "count": 81,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-181",
+            "count": 79,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6433",
+            "count": 79,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7264",
+            "count": 79,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2373",
+            "count": 79,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-982",
+            "count": 79,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-927",
+            "count": 78,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-958",
+            "count": 78,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-393",
+            "count": 78,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-532",
+            "count": 78,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-276",
+            "count": 78,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-479",
+            "count": 78,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-339",
+            "count": 78,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7156",
+            "count": 78,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2181",
+            "count": 77,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-517",
+            "count": 77,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5398",
+            "count": 77,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6014",
+            "count": 77,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-701",
+            "count": 77,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-1451",
+            "count": 76,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5211",
+            "count": 76,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-788",
+            "count": 75,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-455",
+            "count": 75,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-168",
+            "count": 75,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-398",
+            "count": 74,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6535",
+            "count": 74,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6233",
+            "count": 74,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-173",
+            "count": 74,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-812",
+            "count": 74,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-318",
+            "count": 74,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6278",
+            "count": 73,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-679",
+            "count": 73,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-559",
+            "count": 73,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-7555",
+            "count": 73,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6567",
+            "count": 73,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-2509",
+            "count": 73,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7623",
+            "count": 73,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-9741",
+            "count": 73,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-534",
+            "count": 72,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-406",
+            "count": 72,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-8171",
+            "count": 71,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-501",
+            "count": 71,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-3831",
+            "count": 71,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-562",
+            "count": 71,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-679",
+            "count": 71,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-8645",
+            "count": 71,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-455",
+            "count": 71,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-7561",
+            "count": 71,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6749",
+            "count": 71,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7177",
+            "count": 71,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-575",
+            "count": 71,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2046",
+            "count": 70,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-471",
+            "count": 70,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-154",
+            "count": 70,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6684",
+            "count": 70,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-515",
+            "count": 70,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-156",
+            "count": 69,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-506",
+            "count": 69,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-126",
+            "count": 69,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-416",
+            "count": 69,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-9843",
+            "count": 69,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-306",
+            "count": 69,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-731",
+            "count": 69,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-358",
+            "count": 69,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-903",
+            "count": 68,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-295",
+            "count": 68,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-198",
+            "count": 68,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-149",
+            "count": 68,
+            "ratio": 0.0
+        },
+        {
+            "value": "UK-773",
+            "count": 68,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6238",
+            "count": 68,
+            "ratio": 0.0
+        },
+        {
+            "value": "UK-847",
+            "count": 68,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-9643",
+            "count": 68,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-791",
+            "count": 67,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-292",
+            "count": 67,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-384",
+            "count": 66,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-1982",
+            "count": 65,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-534",
+            "count": 65,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6007",
+            "count": 65,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5359",
+            "count": 65,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6004",
+            "count": 65,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2753",
+            "count": 65,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5202",
+            "count": 64,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7583",
+            "count": 64,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-796",
+            "count": 64,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-398",
+            "count": 63,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6324",
+            "count": 63,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-193",
+            "count": 63,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-485",
+            "count": 63,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2478",
+            "count": 62,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-945",
+            "count": 62,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5347",
+            "count": 62,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-232",
+            "count": 62,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2485",
+            "count": 62,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5017",
+            "count": 62,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7211",
+            "count": 62,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5038",
+            "count": 62,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-8941",
+            "count": 62,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-966",
+            "count": 61,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-8411",
+            "count": 61,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2093",
+            "count": 61,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5207",
+            "count": 61,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-776",
+            "count": 61,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7257",
+            "count": 60,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-552",
+            "count": 60,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-143",
+            "count": 60,
+            "ratio": 0.0
+        },
+        {
+            "value": "UK-755",
+            "count": 60,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6128",
+            "count": 60,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-248",
+            "count": 60,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6111",
+            "count": 59,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-549",
+            "count": 59,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2062",
+            "count": 59,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-643",
+            "count": 59,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5367",
+            "count": 58,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5012",
+            "count": 58,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6344",
+            "count": 58,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-926",
+            "count": 57,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2752",
+            "count": 57,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7201",
+            "count": 57,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5386",
+            "count": 57,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-186",
+            "count": 57,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5372",
+            "count": 57,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-929",
+            "count": 57,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5394",
+            "count": 57,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2349",
+            "count": 57,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-221",
+            "count": 56,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-480",
+            "count": 56,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-394",
+            "count": 55,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6012",
+            "count": 55,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7234",
+            "count": 55,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-237",
+            "count": 55,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6202",
+            "count": 55,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2456",
+            "count": 55,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5001",
+            "count": 54,
+            "ratio": 0.0
+        },
+        {
+            "value": "UK-621",
+            "count": 54,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2168",
+            "count": 54,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-704",
+            "count": 54,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6216",
+            "count": 54,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-557",
+            "count": 54,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-171",
+            "count": 54,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5041",
+            "count": 54,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-958",
+            "count": 53,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-176",
+            "count": 53,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-404",
+            "count": 53,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-255",
+            "count": 53,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-191",
+            "count": 53,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5316",
+            "count": 53,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-163",
+            "count": 53,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-626",
+            "count": 53,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6505",
+            "count": 53,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-513",
+            "count": 52,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-292",
+            "count": 52,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-613",
+            "count": 52,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-801",
+            "count": 52,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-939",
+            "count": 52,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2618",
+            "count": 52,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2249",
+            "count": 52,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-811",
+            "count": 52,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-574",
+            "count": 51,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-194",
+            "count": 51,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7224",
+            "count": 51,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-1564",
+            "count": 51,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-524",
+            "count": 51,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7062",
+            "count": 51,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6201",
+            "count": 51,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2154",
+            "count": 51,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-309",
+            "count": 51,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-128",
+            "count": 51,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2769",
+            "count": 50,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-199",
+            "count": 50,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-415",
+            "count": 50,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6865",
+            "count": 50,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5327",
+            "count": 50,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5379",
+            "count": 49,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2169",
+            "count": 49,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2615",
+            "count": 49,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-755",
+            "count": 49,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2162",
+            "count": 49,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-242",
+            "count": 49,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5343",
+            "count": 49,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5328",
+            "count": 49,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-295",
+            "count": 49,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-8253",
+            "count": 49,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5323",
+            "count": 49,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2174",
+            "count": 49,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2186",
+            "count": 49,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2148",
+            "count": 49,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-153",
+            "count": 49,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6139",
+            "count": 49,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6195",
+            "count": 49,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-944",
+            "count": 49,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-296",
+            "count": 49,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2047",
+            "count": 49,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-113",
+            "count": 49,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-283",
+            "count": 49,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-198",
+            "count": 48,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-218",
+            "count": 48,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-1622",
+            "count": 48,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6445",
+            "count": 48,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5399",
+            "count": 48,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6893",
+            "count": 48,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-751",
+            "count": 48,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-136",
+            "count": 48,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-188",
+            "count": 48,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2061",
+            "count": 48,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-133",
+            "count": 48,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-629",
+            "count": 48,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-132",
+            "count": 48,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5317",
+            "count": 48,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-241",
+            "count": 48,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2131",
+            "count": 48,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-779",
+            "count": 48,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2479",
+            "count": 48,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2514",
+            "count": 48,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-8483",
+            "count": 47,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-2472",
+            "count": 47,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-8108",
+            "count": 47,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6358",
+            "count": 47,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7204",
+            "count": 47,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-649",
+            "count": 47,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2172",
+            "count": 47,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2518",
+            "count": 47,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7076",
+            "count": 47,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5218",
+            "count": 47,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6258",
+            "count": 47,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-145",
+            "count": 46,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6307",
+            "count": 46,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-339",
+            "count": 46,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-912",
+            "count": 46,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-8104",
+            "count": 46,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2513",
+            "count": 46,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5331",
+            "count": 46,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6616",
+            "count": 46,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2054",
+            "count": 46,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7118",
+            "count": 46,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-224",
+            "count": 46,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2043",
+            "count": 46,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5391",
+            "count": 45,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6386",
+            "count": 45,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-954",
+            "count": 45,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5031",
+            "count": 45,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-757",
+            "count": 45,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6261",
+            "count": 45,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-8187",
+            "count": 45,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2065",
+            "count": 45,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6798",
+            "count": 45,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-312",
+            "count": 45,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5384",
+            "count": 45,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6087",
+            "count": 44,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-467",
+            "count": 44,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-3440",
+            "count": 44,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5203",
+            "count": 44,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5389",
+            "count": 44,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5365",
+            "count": 44,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6891",
+            "count": 44,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-8185",
+            "count": 44,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-9927",
+            "count": 44,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-349",
+            "count": 44,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-787",
+            "count": 44,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2034",
+            "count": 44,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-266",
+            "count": 44,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-4031",
+            "count": 44,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-184",
+            "count": 44,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2517",
+            "count": 44,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5368",
+            "count": 44,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-489",
+            "count": 44,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-897",
+            "count": 44,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7713",
+            "count": 44,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6737",
+            "count": 44,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-487",
+            "count": 43,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-438",
+            "count": 43,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-4025",
+            "count": 43,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2843",
+            "count": 43,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-9887",
+            "count": 43,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-207",
+            "count": 43,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5018",
+            "count": 43,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-8263",
+            "count": 43,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2001",
+            "count": 43,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6171",
+            "count": 43,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-975",
+            "count": 43,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-3229",
+            "count": 43,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-3832",
+            "count": 43,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-2392",
+            "count": 43,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-932",
+            "count": 43,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7121",
+            "count": 43,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2337",
+            "count": 43,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2616",
+            "count": 43,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6722",
+            "count": 43,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2027",
+            "count": 43,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2076",
+            "count": 42,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-809",
+            "count": 42,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-9755",
+            "count": 42,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-994",
+            "count": 42,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-503",
+            "count": 42,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-1727",
+            "count": 42,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2329",
+            "count": 42,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6721",
+            "count": 42,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-923",
+            "count": 42,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-2697",
+            "count": 42,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-289",
+            "count": 42,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-8107",
+            "count": 42,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-2277",
+            "count": 42,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-1566",
+            "count": 42,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6597",
+            "count": 42,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-949",
+            "count": 42,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-811",
+            "count": 42,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-545",
+            "count": 42,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-4005",
+            "count": 41,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-661",
+            "count": 41,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-854",
+            "count": 41,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-483",
+            "count": 41,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2097",
+            "count": 41,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-761",
+            "count": 41,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2092",
+            "count": 41,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-3835",
+            "count": 41,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-820",
+            "count": 41,
+            "ratio": 0.0
+        },
+        {
+            "value": "UK-855",
+            "count": 41,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2036",
+            "count": 41,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-329",
+            "count": 41,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-541",
+            "count": 41,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-390",
+            "count": 41,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-4003",
+            "count": 41,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-627",
+            "count": 40,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6464",
+            "count": 40,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5344",
+            "count": 40,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-482",
+            "count": 40,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-627",
+            "count": 40,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-2401",
+            "count": 40,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-2605",
+            "count": 40,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5336",
+            "count": 40,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-806",
+            "count": 40,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2127",
+            "count": 40,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-1783",
+            "count": 40,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-583",
+            "count": 40,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2137",
+            "count": 40,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-875",
+            "count": 40,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-481",
+            "count": 40,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-435",
+            "count": 40,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-338",
+            "count": 40,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2025",
+            "count": 40,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5396",
+            "count": 39,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-209",
+            "count": 39,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-788",
+            "count": 39,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-620",
+            "count": 39,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-102",
+            "count": 39,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-471",
+            "count": 39,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-461",
+            "count": 39,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-2609",
+            "count": 39,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-787",
+            "count": 39,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-332",
+            "count": 39,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-2231",
+            "count": 39,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-2403",
+            "count": 39,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2009",
+            "count": 39,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-2417",
+            "count": 39,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-409",
+            "count": 39,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5382",
+            "count": 39,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-303",
+            "count": 39,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-881",
+            "count": 39,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-8938",
+            "count": 39,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6739",
+            "count": 39,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-2411",
+            "count": 39,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-347",
+            "count": 39,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-889",
+            "count": 39,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-678",
+            "count": 39,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-165",
+            "count": 38,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-688",
+            "count": 38,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-702",
+            "count": 38,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-531",
+            "count": 38,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-995",
+            "count": 38,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-213",
+            "count": 38,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5214",
+            "count": 38,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-832",
+            "count": 38,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-451",
+            "count": 37,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6593",
+            "count": 37,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-989",
+            "count": 37,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7407",
+            "count": 36,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-425",
+            "count": 36,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2367",
+            "count": 36,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2031",
+            "count": 36,
+            "ratio": 0.0
+        },
+        {
+            "value": "UK-683",
+            "count": 36,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-959",
+            "count": 36,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6753",
+            "count": 36,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-3023",
+            "count": 36,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-321",
+            "count": 36,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-434",
+            "count": 35,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-2511",
+            "count": 35,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-9925",
+            "count": 35,
+            "ratio": 0.0
+        },
+        {
+            "value": "UK-741",
+            "count": 35,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-643",
+            "count": 35,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-767",
+            "count": 35,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-356",
+            "count": 35,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-546",
+            "count": 35,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-681",
+            "count": 34,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2343",
+            "count": 34,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6088",
+            "count": 34,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-898",
+            "count": 34,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-231",
+            "count": 34,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-9921",
+            "count": 34,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-7557",
+            "count": 34,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-1731",
+            "count": 34,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6182",
+            "count": 33,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-535",
+            "count": 33,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5302",
+            "count": 33,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-343",
+            "count": 33,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5073",
+            "count": 33,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-246",
+            "count": 33,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-917",
+            "count": 33,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5352",
+            "count": 33,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-1454",
+            "count": 33,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2042",
+            "count": 33,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-837",
+            "count": 32,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-895",
+            "count": 32,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-300",
+            "count": 32,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-403",
+            "count": 32,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-745",
+            "count": 32,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5325",
+            "count": 32,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6223",
+            "count": 32,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-9929",
+            "count": 32,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-695",
+            "count": 31,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5355",
+            "count": 31,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-978",
+            "count": 31,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-5205",
+            "count": 31,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7071",
+            "count": 31,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7292",
+            "count": 31,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6086",
+            "count": 31,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5329",
+            "count": 31,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-319",
+            "count": 31,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-9928",
+            "count": 31,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2053",
+            "count": 31,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-708",
+            "count": 31,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-657",
+            "count": 30,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6178",
+            "count": 30,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-818",
+            "count": 30,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-9110",
+            "count": 30,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-856",
+            "count": 30,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6123",
+            "count": 30,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-461",
+            "count": 30,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-7553",
+            "count": 30,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-448",
+            "count": 30,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-519",
+            "count": 30,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-491",
+            "count": 29,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-655",
+            "count": 29,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-747",
+            "count": 29,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-271",
+            "count": 29,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7288",
+            "count": 29,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-604",
+            "count": 28,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6242",
+            "count": 28,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-9017",
+            "count": 28,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-205",
+            "count": 28,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-327",
+            "count": 28,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6109",
+            "count": 27,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-645",
+            "count": 27,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-623",
+            "count": 27,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-573",
+            "count": 26,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2082",
+            "count": 26,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5006",
+            "count": 26,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7084",
+            "count": 26,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-922",
+            "count": 26,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-716",
+            "count": 26,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2081",
+            "count": 26,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-735",
+            "count": 25,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-549",
+            "count": 25,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2107",
+            "count": 25,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6016",
+            "count": 25,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-2462",
+            "count": 25,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-227",
+            "count": 25,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-575",
+            "count": 25,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6269",
+            "count": 25,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-388",
+            "count": 24,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-1010",
+            "count": 24,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-713",
+            "count": 24,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-353",
+            "count": 24,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-713",
+            "count": 24,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-759",
+            "count": 24,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-261",
+            "count": 24,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-201",
+            "count": 24,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-183",
+            "count": 24,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-395",
+            "count": 24,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-676",
+            "count": 24,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-801",
+            "count": 24,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6572",
+            "count": 24,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-264",
+            "count": 24,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-606",
+            "count": 24,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2841",
+            "count": 23,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6802",
+            "count": 23,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-268",
+            "count": 23,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5206",
+            "count": 23,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-667",
+            "count": 23,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-952",
+            "count": 23,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-503",
+            "count": 23,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-420",
+            "count": 22,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7227",
+            "count": 22,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-475",
+            "count": 22,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-551",
+            "count": 22,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-172",
+            "count": 22,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-297",
+            "count": 22,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-9857",
+            "count": 21,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-780",
+            "count": 21,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6062",
+            "count": 21,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6636",
+            "count": 21,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-2440",
+            "count": 21,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2109",
+            "count": 21,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-813",
+            "count": 21,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-121",
+            "count": 20,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-879",
+            "count": 20,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-771",
+            "count": 20,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-635",
+            "count": 20,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-963",
+            "count": 20,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-8701",
+            "count": 20,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-8179",
+            "count": 20,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-2504",
+            "count": 20,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6553",
+            "count": 20,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-234",
+            "count": 20,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5337",
+            "count": 20,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-907",
+            "count": 20,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6098",
+            "count": 20,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7336",
+            "count": 20,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6231",
+            "count": 20,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-121",
+            "count": 20,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-8723",
+            "count": 20,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-438",
+            "count": 20,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-357",
+            "count": 20,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-244",
+            "count": 20,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-3719",
+            "count": 20,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-881",
+            "count": 20,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-537",
+            "count": 20,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-5204",
+            "count": 20,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7175",
+            "count": 19,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-254",
+            "count": 19,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-431",
+            "count": 19,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-381",
+            "count": 19,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2106",
+            "count": 19,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-892",
+            "count": 19,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2013",
+            "count": 19,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-539",
+            "count": 19,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-775",
+            "count": 19,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5358",
+            "count": 18,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-146",
+            "count": 18,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-721",
+            "count": 18,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6271",
+            "count": 18,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-148",
+            "count": 18,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2057",
+            "count": 18,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-502",
+            "count": 17,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-782",
+            "count": 17,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-911",
+            "count": 17,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5342",
+            "count": 17,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-2601",
+            "count": 17,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-602",
+            "count": 17,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-635",
+            "count": 16,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-2502",
+            "count": 16,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-9809",
+            "count": 16,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-9015",
+            "count": 16,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5014",
+            "count": 16,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-3233",
+            "count": 16,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2763",
+            "count": 16,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-268",
+            "count": 16,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-5067",
+            "count": 15,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-3321",
+            "count": 15,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-866",
+            "count": 15,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2069",
+            "count": 15,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-266",
+            "count": 15,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5042",
+            "count": 15,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-2606",
+            "count": 15,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-546",
+            "count": 15,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2685",
+            "count": 15,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-294",
+            "count": 15,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2471",
+            "count": 15,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6825",
+            "count": 15,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-6003",
+            "count": 15,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-212",
+            "count": 15,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-946",
+            "count": 15,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-1031",
+            "count": 15,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-1171",
+            "count": 15,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2033",
+            "count": 15,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-634",
+            "count": 15,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-1061",
+            "count": 15,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-1089",
+            "count": 15,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6245",
+            "count": 15,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-1062",
+            "count": 15,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6084",
+            "count": 15,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7115",
+            "count": 15,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-821",
+            "count": 15,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-3184",
+            "count": 15,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2103",
+            "count": 15,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-299",
+            "count": 15,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2178",
+            "count": 15,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-401",
+            "count": 14,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-404",
+            "count": 14,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-131",
+            "count": 14,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-468",
+            "count": 14,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5395",
+            "count": 14,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-5069",
+            "count": 14,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-415",
+            "count": 14,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-5075",
+            "count": 14,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-1056",
+            "count": 14,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-601",
+            "count": 14,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-6006",
+            "count": 14,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-1077",
+            "count": 14,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-1057",
+            "count": 14,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-6005",
+            "count": 14,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2089",
+            "count": 14,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-589",
+            "count": 14,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-188",
+            "count": 14,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-772",
+            "count": 13,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-1092",
+            "count": 13,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-1032",
+            "count": 13,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-489",
+            "count": 13,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-5088",
+            "count": 13,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-9609",
+            "count": 13,
+            "ratio": 0.0
+        },
+        {
+            "value": "UK-861",
+            "count": 13,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6227",
+            "count": 13,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-6027",
+            "count": 13,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-719",
+            "count": 13,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-1063",
+            "count": 13,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6106",
+            "count": 12,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-1071",
+            "count": 12,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-892",
+            "count": 12,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-9030",
+            "count": 12,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5431",
+            "count": 12,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-8910",
+            "count": 12,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-5012",
+            "count": 12,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-384",
+            "count": 12,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-199",
+            "count": 12,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-736",
+            "count": 12,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-387",
+            "count": 12,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-509",
+            "count": 11,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-9919",
+            "count": 11,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-9645",
+            "count": 11,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-213",
+            "count": 11,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-436",
+            "count": 11,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-603",
+            "count": 11,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2032",
+            "count": 11,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-5013",
+            "count": 11,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-5019",
+            "count": 11,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6717",
+            "count": 11,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-192",
+            "count": 11,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-499",
+            "count": 11,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-563",
+            "count": 11,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-374",
+            "count": 11,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-781",
+            "count": 11,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5063",
+            "count": 11,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-274",
+            "count": 11,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6294",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-177",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6094",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2511",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5071",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-361",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-848",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6815",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-5018",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-947",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-286",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-951",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-736",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6915",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-208",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-245",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-882",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5501",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-307",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-649",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6515",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-695",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-8195",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5026",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-478",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-374",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-938",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-153",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-334",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-815",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-469",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7348",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2274",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-105",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6268",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-453",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-403",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-943",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-407",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-1059",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-360",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6292",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2719",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6211",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-395",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6206",
+            "count": 10,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-715",
+            "count": 9,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-108",
+            "count": 9,
+            "ratio": 0.0
+        },
+        {
+            "value": "UK-721",
+            "count": 9,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-5068",
+            "count": 9,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6517",
+            "count": 9,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-1090",
+            "count": 9,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-1072",
+            "count": 9,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-363",
+            "count": 9,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-861",
+            "count": 9,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-5094",
+            "count": 8,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-5006",
+            "count": 8,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-401",
+            "count": 8,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-5072",
+            "count": 8,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-5074",
+            "count": 8,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-5093",
+            "count": 8,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-715",
+            "count": 7,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-564",
+            "count": 7,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6393",
+            "count": 7,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-5073",
+            "count": 7,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-5091",
+            "count": 7,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-5002",
+            "count": 7,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5361",
+            "count": 7,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5373",
+            "count": 7,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-544",
+            "count": 7,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5059",
+            "count": 7,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-5007",
+            "count": 7,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-1091",
+            "count": 7,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-6001",
+            "count": 7,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-5406",
+            "count": 7,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-493",
+            "count": 7,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2901",
+            "count": 6,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-1054",
+            "count": 6,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6213",
+            "count": 6,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-1074",
+            "count": 6,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-3564",
+            "count": 6,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-209",
+            "count": 6,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6475",
+            "count": 6,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-641",
+            "count": 6,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-559",
+            "count": 6,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5393",
+            "count": 6,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5349",
+            "count": 6,
+            "ratio": 0.0
+        },
+        {
+            "value": "UK-671",
+            "count": 6,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-825",
+            "count": 6,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-151",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-274",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-727",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-998",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7193",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6309",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-3239",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-581",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7329",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6148",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6095",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7149",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6174",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7589",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6781",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-917",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2007",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6417",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7221",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-987",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-477",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-962",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-327",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6381",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-887",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7195",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-397",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6029",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-487",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6478",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6817",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6293",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5345",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-739",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-197",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2015",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-533",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-542",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-802",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-2607",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5037",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-3248",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-911",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6565",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-8905",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-781",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-308",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6612",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-1540",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2048",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6876",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6971",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-223",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-263",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6198",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-972",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6197",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-151",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6282",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2016",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5016",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2346",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6023",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6189",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-8968",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2087",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6096",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-8103",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-107",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6186",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5047",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6993",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5313",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-164",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5381",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-138",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-439",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-408",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-869",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6247",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-366",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2519",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2008",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-203",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7202",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7147",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-798",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-676",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-3723",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7114",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6444",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5087",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6741",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-2508",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7307",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-621",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5176",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-595",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-3728",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-584",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-884",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-871",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-123",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6939",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-698",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-735",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5007",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-8906",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-3725",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-8191",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5303",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6085",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6479",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-488",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-738",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-292",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6264",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5305",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-864",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-442",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2176",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-368",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-969",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-207",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-2643",
+            "count": 5,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2022",
+            "count": 4,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-6016",
+            "count": 4,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-389",
+            "count": 4,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5088",
+            "count": 4,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-9915",
+            "count": 4,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-9937",
+            "count": 4,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-961",
+            "count": 4,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-2506",
+            "count": 4,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-583",
+            "count": 3,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-365",
+            "count": 3,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-9931",
+            "count": 3,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-5079",
+            "count": 3,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-6018",
+            "count": 3,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-5025",
+            "count": 3,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-2201",
+            "count": 3,
+            "ratio": 0.0
+        },
+        {
+            "value": "UK-641",
+            "count": 3,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-634",
+            "count": 3,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-7542",
+            "count": 3,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6623",
+            "count": 3,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6719",
+            "count": 3,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-251",
+            "count": 3,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6121",
+            "count": 3,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-551",
+            "count": 3,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-9911",
+            "count": 3,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7293",
+            "count": 2,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6926",
+            "count": 2,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-5092",
+            "count": 2,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-9939",
+            "count": 2,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-487",
+            "count": 2,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-7587",
+            "count": 2,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-3214",
+            "count": 2,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-9911",
+            "count": 2,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2938",
+            "count": 2,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-1427",
+            "count": 2,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-5402",
+            "count": 2,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-5405",
+            "count": 2,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-652",
+            "count": 2,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-806",
+            "count": 2,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2939",
+            "count": 1,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-1058",
+            "count": 1,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-8193",
+            "count": 1,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-3211",
+            "count": 1,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-8913",
+            "count": 1,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-8339",
+            "count": 1,
+            "ratio": 0.0
+        },
+        {
+            "value": "I5-737",
+            "count": 1,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6613",
+            "count": 1,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-9974",
+            "count": 1,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-865",
+            "count": 1,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-9991",
+            "count": 1,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-5003",
+            "count": 1,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-543",
+            "count": 1,
+            "ratio": 0.0
+        },
+        {
+            "value": "AI-437",
+            "count": 1,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-8106",
+            "count": 1,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-9923",
+            "count": 1,
+            "ratio": 0.0
+        },
+        {
+            "value": "SG-8480",
+            "count": 1,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-705",
+            "count": 1,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-6474",
+            "count": 1,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-405",
+            "count": 1,
+            "ratio": 0.0
+        },
+        {
+            "value": "G8-107",
+            "count": 1,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-2914",
+            "count": 1,
+            "ratio": 0.0
+        },
+        {
+            "value": "6E-561",
+            "count": 1,
+            "ratio": 0.0
+        }
+    ]
+}

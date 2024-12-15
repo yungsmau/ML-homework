@@ -1,0 +1,12 @@
+{
+    "gender": {
+        "least_common_value": "Other",
+        "least_common_count": 18,
+        "ratio": 0.0
+    },
+    "smoking_history": {
+        "least_common_value": "ever",
+        "least_common_count": 4004,
+        "ratio": 0.04
+    }
+}

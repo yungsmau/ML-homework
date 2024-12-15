@@ -1,0 +1,20 @@
+{
+    "price": {
+        "lower_bound": -1161.0,
+        "upper_bound": 13135.0,
+        "outliers_count": 13264,
+        "percentage": 6.627
+    },
+    "duration": {
+        "lower_bound": -7.25,
+        "upper_bound": 28.75,
+        "outliers_count": 2551,
+        "percentage": 1.275
+    },
+    "days_left": {
+        "lower_bound": -19.5,
+        "upper_bound": 72.5,
+        "outliers_count": 0,
+        "percentage": 0.0
+    }
+}

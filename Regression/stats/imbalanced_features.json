@@ -1,0 +1,27 @@
+{
+    "airline": {
+        "least_common_value": "SpiceJet",
+        "least_common_count": 8898,
+        "ratio": 0.044
+    },
+    "source_city": {
+        "least_common_value": "Chennai",
+        "least_common_count": 19658,
+        "ratio": 0.098
+    },
+    "departure_time": {
+        "least_common_value": "Late_Night",
+        "least_common_count": 1130,
+        "ratio": 0.006
+    },
+    "stops": {
+        "least_common_value": "two_or_more",
+        "least_common_count": 11576,
+        "ratio": 0.058
+    },
+    "arrival_time": {
+        "least_common_value": "Early_Morning",
+        "least_common_count": 11481,
+        "ratio": 0.057
+    }
+}
