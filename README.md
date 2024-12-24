@@ -1,7 +1,13 @@
 # Репозиторий для домашних заданий
 
-Датасеты:
+Задания расположение в папках:
 
-1. Flight Price Prediction -> Regression/
+1. Регрессия -> Regression/
 
-2. Diabetes Prediction Dataset -> Binary_classification/
+2. Логистическая регрессия (классификация) -> Binary_classification/
+
+Каждое задание расположено в соответствующей папке:
+
+- Задание 1 -> task1
+- Задание 2 -> task2
+- Задание 3 -> task3
